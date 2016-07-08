@@ -2,4 +2,4 @@
 Repositorio de documentación
 
 Directorio de contactos:
-  link:mailto:epino@md.cl[EDUARDO PINO - PLANIFICADOR PRODUCCIÓN]
+  [EDUARDO PINO - PLANIFICADOR PRODUCCIÓN](mailto:epino@md.cl)
